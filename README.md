@@ -2,6 +2,7 @@
 
 Welcome to the **E-commerce Anlaytical Data Warehouse Project** repository!
 This project demonstrates a comprehensive data warehousing solution. Designed as a portfolio project that highlights industry best practices in data engineering.
+
 ---
 
 ## Data Architecture
